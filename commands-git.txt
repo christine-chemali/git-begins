@@ -3,4 +3,4 @@
  git add commands-git.txt
  git commit -m "job3 gitbegins"
  git push -u origin main
- git pull origin main
+ git pull 
